@@ -178,7 +178,7 @@ public class Helpdesk implements Serializable {
     public String toString() {
         return "jpa.entities.Helpdesk[ id=" + id + " ]";
     }
-        
+}       
 
     
 /**  Калыс, посмотри как этот код использовать для поиска заявок по ID
